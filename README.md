@@ -4,23 +4,18 @@
 - Instalar algún cliente git como por ejemplo [git bash](https://git-scm.com/downloads)
 
 
-### Exercise
+### Ejercicio
 
-Solucion:
 
-- Imprimir los multiplos de 3, 5 y (3,5)
+- Imprimir de un numero los multiplos de 3, 5 y (3y5) que existan.
  
-
-### Requerimientos docker
-
-
 
 ### Instalación del framework de pruebas
 
 #### **Clonar el repositorio:**
 
 ```bash
-git clone 
+git clone https://github.com/josimaramazing/js-junior.git
 ```
 
 #### **Instalar y configurar Jest.**
